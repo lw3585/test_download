@@ -1,0 +1,10 @@
+[Tue Dec 25 14:21:29 2018] ERROR: fmt
+[Tue Dec 25 14:21:29 2018] Already open log file: /app/log_music_player.log!!!
+[Tue Dec 25 14:25:44 2018] ERROR: 11.c, func: main, line: 48, "format"
+[Tue Dec 25 14:25:44 2018] Already open log file: /app/log_music_player.log!!!
+[Tue Dec 25 14:26:44 2018] ERROR: 11.c, func: main, line: 48, "fmt"
+[Tue Dec 25 14:26:44 2018] Already open log file: /app/log_music_player.log!!!
+[Tue Dec 25 14:36:15 2018] 11.c, func: main, line: 0048, ERROR: Already open log file: /app/log_music_player.log!!!
+[Tue Dec 25 14:36:15 2018] Already open log file: /app/log_music_player.log!!!
+[Tue Dec 25 14:37:47 2018]func: main, line: 0048, ERROR: Already open log file: /app/log_music_player.log!!!
+[Tue Dec 25 14:37:47 2018] Already open log file: /app/log_music_player.log!!!
